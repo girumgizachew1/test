@@ -1,2 +1,3 @@
 hello logi
 new
+stash
